@@ -1,6 +1,8 @@
-### Hi there 👋, I am Luqman Adeiza Ibrahim
-#### I am a Full Stack web developer, with a focus on scalable SPA
+
 ![I am a Full Stack web developer, with a focus on scalable SPA](https://github.com/fvlly/fvlly/blob/main/profile.jpg)
+
+### Hi there 👋, My name is Luqman Adeiza Ibrahim
+#### I am a Full Stack web developer from Nigeria, with a focus on scalable SPA, currently working on a task-Managemnt App
 
 
 Skills: REACT / NODEJS / EXPRESS / MONGODB /JS / HTML / CSS

@@ -1,5 +1,4 @@
-
-![I am a Full Stack web developer, with a focus on scalable SPA](https://github.com/fvlly/fvlly/blob/main/profile.jpg)
+<img src="https://github.com/fvlly/fvlly/blob/main/profile.jpg" alt="profile pic">
 
 ### Hi there 👋, My name is Luqman Adeiza Ibrahim
 #### I am a Full Stack web developer from Nigeria, with a focus on scalable SPA, currently working on a task-Managemnt App

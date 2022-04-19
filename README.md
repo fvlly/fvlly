@@ -1,4 +1,4 @@
-<img src="https://p.kindpng.com/picc/s/124-1247336_web-development-gif-png-transparent-png.png" alt="web development gif" >
+<img src="https://p.kindpng.com/picc/s/124-1247336_web-development-gif-png-transparent-png.png" alt="web development gif" width="100" height="100" >
 
 ### Hi there 👋, My name is Luqman Adeiza Ibrahim
 #### I am a Full Stack web developer from Nigeria, with a focus on scalable SPA, currently working on a task-Managemnt App

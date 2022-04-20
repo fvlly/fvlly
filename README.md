@@ -25,8 +25,9 @@
 
 ### I'm currently Learning :
 ***
--Tailwind css
--Postgresql
+- Tailwind css
+- Postgresql
+- Redux
 
 ### 🖥️ Languages and Technologies:
 ---

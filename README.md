@@ -14,11 +14,24 @@
 #### I am a Full Stack web developer from Nigeria, with a focus on scalable SPA, currently working on a task-Managemnt App
 
 
-Skills: REACT / NODEJS / EXPRESS / MONGODB /JS / HTML / CSS
+---
+### I'm currently working on :
+***
+- This page
+- My old projects
+- A React dev Portfolio
+- Improving my css design systems
+- Sass and PostCss
+
+### I'm currently Learning :
+***
+-Tailwind css
+-Postgresql
+
+### 🖥️ Languages and Technologies:
+---
 
 
-- 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fvlly)  
 

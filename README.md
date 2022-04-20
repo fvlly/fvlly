@@ -45,9 +45,7 @@
   
   ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032)
    ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=181717)
-   
-  ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&color=F24E1E)
-  
+    ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&color=F24E1E)
   ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&color=FF6C37)
   
 

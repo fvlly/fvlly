@@ -30,17 +30,17 @@
 
 ### 🖥️ Languages and Technologies:
 ---
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML%&color=E34f26)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript%&color=f7Df1E)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5%&color=E34f26)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript%&color=f7Df1E)
 ![](https://img.shields.io/badge/Code-Nodemon-informational?style=flat&logo=nodemon&color=76D04B)
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=node&color=339933)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 
-  ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3%&color=1572B6)
-  ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=CSS3%&color=7952B3)
+  ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3%&color=1572B6)
+  ![](https://img.shields.io/badge/Style-bootstrap-informational?style=flat&logo=CSS3%&color=7952B3)
   ![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=Sass%&color=cc6699)
-  ![](https://img.shields.io/badge/Style-Tailwindcss-informational?style=flat&logo=CSS3%&color=96B6D4)
+  ![](https://img.shields.io/badge/Style-tailwindcss-informational?style=flat&logo=CSS3%&color=96B6D4)
   
 
 

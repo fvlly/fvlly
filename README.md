@@ -30,6 +30,7 @@
 
 ### 🖥️ Languages and Technologies:
 ---
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML%&color=E34f26)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 

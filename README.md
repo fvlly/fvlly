@@ -1,5 +1,5 @@
 <img src="https://p.kindpng.com/picc/s/124-1247336_web-development-gif-png-transparent-png.png" alt="web development gif" width="700" height="200" >
-<div style="width:100%;height:0;padding-bottom:98%;position:relative;"><iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+<img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b761108698c9d0ed988aa14cf3078e70fcdba26741a71&rid=giphy.gif&ct=g" >
 
 ### Hi there 👋, My name is Luqman Adeiza Ibrahim
 #### I am a Full Stack web developer from Nigeria, with a focus on scalable SPA, currently working on a task-Managemnt App

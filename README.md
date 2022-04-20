@@ -1,5 +1,5 @@
-<img src="https://p.kindpng.com/picc/s/124-1247336_web-development-gif-png-transparent-png.png" alt="web development gif"" >
-<img src="https://media3.giphy.com/media/kH6CqYiquZawmU1HI6/100.webp?cid=ecf05e474a7vot047io1xhhsjbyo4w4b86epgmqkst2nat4n&rid=100.webp&ct=g"  width="700" height="200" >
+
+<img src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/200w.webp?cid=ecf05e477sg4ms9uim65ffxflxf0vyho745841en43j4i2p4&rid=200w.webp&ct=g"  width="700" height="200" >
 
 ### Hi there 👋, My name is Luqman Adeiza Ibrahim
 #### I am a Full Stack web developer from Nigeria, with a focus on scalable SPA, currently working on a task-Managemnt App

@@ -34,6 +34,7 @@
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=E34f26)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7Df1E)
 ![](https://img.shields.io/badge/Code-Nodemon-informational?style=flat&logo=nodemon&color=76D04B)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&color=000000)
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&color=339933)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=47A24B)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
@@ -48,6 +49,8 @@
    ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=181717)
     ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&color=F24E1E)
   ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&color=FF6C37)
+  ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&color=CB3837)
+  
   
 
 

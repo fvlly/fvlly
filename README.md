@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5%&color=E34f26)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript%&color=f7Df1E)
 ![](https://img.shields.io/badge/Code-Nodemon-informational?style=flat&logo=nodemon&color=76D04B)
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=node&color=339933)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&color=339933)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 

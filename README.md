@@ -34,6 +34,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7Df1E)
 ![](https://img.shields.io/badge/Code-Nodemon-informational?style=flat&logo=nodemon&color=76D04B)
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodedotjs&color=339933)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=47A24B)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 
@@ -41,6 +42,13 @@
   ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&color=7952B3)
   ![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=sass&color=cc6699)
   ![](https://img.shields.io/badge/Style-Tailwindcss-informational?style=flat&logo=tailwindcss&color=96B6D4)
+  
+  ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032)
+   ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=181717)
+   
+  ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&color=F24E1E)
+  
+  ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&color=FF6C37)
   
 
 
